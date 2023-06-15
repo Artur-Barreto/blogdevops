@@ -3,11 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blogdevops.github.io/categories/</loc>
+    <loc>https://blogdevops.github.io/posts/about/</loc>
+    <lastmod>2023-06-15T19:11:56-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://blogdevops.github.io/</loc>
+    <lastmod>2023-06-15T19:11:56-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blogdevops.github.io/posts/</loc>
+    <lastmod>2023-06-15T19:11:56-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blogdevops.github.io/posts/my-first-post/</loc>
+    <lastmod>2023-06-15T19:04:45-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blogdevops.github.io/categories/</loc>
   </url>
   
   <url>
