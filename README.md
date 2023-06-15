@@ -1,3 +1,1 @@
 # blogdevops.github.io
-
-
