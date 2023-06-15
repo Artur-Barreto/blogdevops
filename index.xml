@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minha carreira DevOps</title>
+    <link>https://blogdevops.github.io/</link>
+    <description>Recent content on Minha carreira DevOps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://blogdevops.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
