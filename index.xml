@@ -5,6 +5,52 @@
     <link>https://blogdevops.github.io/</link>
     <description>Recent content on Minha carreira DevOps</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://blogdevops.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 14:17:17 -0300</lastBuildDate><atom:link href="https://blogdevops.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://blogdevops.github.io/posts/2023/06/16/about/</link>
+      <pubDate>Fri, 16 Jun 2023 14:17:17 -0300</pubDate>
+      
+      <guid>https://blogdevops.github.io/posts/2023/06/16/about/</guid>
+      <description>Vamo ver se isso funciona ou n</description>
+    </item>
+    
+    <item>
+      <title>Default</title>
+      <link>https://blogdevops.github.io/posts/2023/06/16/default/</link>
+      <pubDate>Fri, 16 Jun 2023 14:17:17 -0300</pubDate>
+      
+      <guid>https://blogdevops.github.io/posts/2023/06/16/default/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://blogdevops.github.io/posts/2023/06/16/my-first-post/</link>
+      <pubDate>Fri, 16 Jun 2023 14:17:17 -0300</pubDate>
+      
+      <guid>https://blogdevops.github.io/posts/2023/06/16/my-first-post/</guid>
+      <description>Testando essa porcaria aqui</description>
+    </item>
+    
+    <item>
+      <title>Teste</title>
+      <link>https://blogdevops.github.io/posts/2023/06/16/teste/</link>
+      <pubDate>Fri, 16 Jun 2023 14:17:17 -0300</pubDate>
+      
+      <guid>https://blogdevops.github.io/posts/2023/06/16/teste/</guid>
+      <description>so por curiosidade </description>
+    </item>
+    
+    <item>
+      <title>Testando</title>
+      <link>https://blogdevops.github.io/posts/2023/06/16/testando/</link>
+      <pubDate>Fri, 16 Jun 2023 12:05:14 -0300</pubDate>
+      
+      <guid>https://blogdevops.github.io/posts/2023/06/16/testando/</guid>
+      <description>Sera que vai agora </description>
+    </item>
+    
   </channel>
 </rss>
