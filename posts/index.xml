@@ -9,37 +9,37 @@
     <lastBuildDate>Fri, 16 Jun 2023 12:05:14 -0300</lastBuildDate><atom:link href="https://blogdevops.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Testando</title>
-      <link>https://blogdevops.github.io/posts/testando/</link>
+      <link>https://blogdevops.github.io/posts/teste.md/</link>
       <pubDate>Fri, 16 Jun 2023 12:05:14 -0300</pubDate>
       
-      <guid>https://blogdevops.github.io/posts/testando/</guid>
+      <guid>https://blogdevops.github.io/posts/teste.md/</guid>
       <description>Sera que vai agora </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://blogdevops.github.io/posts/about/</link>
+      <link>https://blogdevops.github.io/posts/teste.md/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blogdevops.github.io/posts/about/</guid>
+      <guid>https://blogdevops.github.io/posts/teste.md/</guid>
       <description>Vamo ver se isso funciona ou n</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://blogdevops.github.io/posts/my-first-post/</link>
+      <link>https://blogdevops.github.io/posts/teste.md/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blogdevops.github.io/posts/my-first-post/</guid>
+      <guid>https://blogdevops.github.io/posts/teste.md/</guid>
       <description>Testando essa porcaria aqui</description>
     </item>
     
     <item>
       <title>Teste</title>
-      <link>https://blogdevops.github.io/posts/teste/</link>
+      <link>https://blogdevops.github.io/posts/teste.md/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blogdevops.github.io/posts/teste/</guid>
+      <guid>https://blogdevops.github.io/posts/teste.md/</guid>
       <description>so por curiosidade </description>
     </item>
     
