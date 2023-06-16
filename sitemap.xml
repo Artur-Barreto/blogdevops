@@ -3,22 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blogdevops.github.io/</loc>
+    <loc>https://blogdevops.github.io/testando/</loc>
     <lastmod>2023-06-16T12:05:14-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blogdevops.github.io/posts/</loc>
-    <lastmod>2023-06-16T12:05:14-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blogdevops.github.io/2023/06/testando/</loc>
-    <lastmod>2023-06-16T12:05:14-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blogdevops.github.io/1/01/about/</loc>
+    <loc>https://blogdevops.github.io/about/</loc>
   </url>
   
   <url>
@@ -26,7 +16,11 @@
   </url>
   
   <url>
-    <loc>https://blogdevops.github.io/1/01/my-first-post/</loc>
+    <loc>https://blogdevops.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blogdevops.github.io/my-first-post/</loc>
   </url>
   
   <url>
@@ -34,7 +28,7 @@
   </url>
   
   <url>
-    <loc>https://blogdevops.github.io/1/01/teste/</loc>
+    <loc>https://blogdevops.github.io/teste/</loc>
   </url>
   
 </urlset>
